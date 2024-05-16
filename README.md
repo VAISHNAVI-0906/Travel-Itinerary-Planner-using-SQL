@@ -1,2 +1,2 @@
-# Travel-Itinerary-Planner-using-SQL
-Efficient travel planning with SQL-based itinerary project. Manage trips, bookings &amp; optimize journeys effortlessly. Explore on GitHub!
+# Travel Itinerary Planner using SQL.
+The SQL query-based travel itinerary project is a robust system designed to streamline the travel planning process. Utilizing SQL queries, it offers users a comprehensive platform to organize trips, manage bookings, and optimize travel itineraries. With its intuitive interface and powerful database capabilities, users can effortlessly retrieve and manipulate data to create personalized travel plans. Whether it's booking flights, accommodations, or activities, this project simplifies the entire process, allowing users to plan and execute memorable journeys with ease and efficiency.
